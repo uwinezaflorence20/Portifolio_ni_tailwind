@@ -963,3 +963,7 @@ video {
     gap: 4vw;
   }
 }
+#icon{
+   width: 30px;
+   cursor:pointer
+}
